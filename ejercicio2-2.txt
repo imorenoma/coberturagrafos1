@@ -1,0 +1,12 @@
+El camino de pruebas para satisfacer edge-coverage
+
+
+(W,L)--adv-->(S,L)--up-->(S,H)--adv-->(W,H)--down-->
+(W,L)--up-->(W,H)--adv-->(S,H)--down-->(S,L)
+
+
+W= wake
+S = sleep
+L = low
+H= High
+adv = advance
