@@ -1,0 +1,20 @@
+Ejercicio 3
+++++++++++++
+
+ultimos-def -> [inFile; nodos 3, 6, 7; lineas 30, 37, 42]
+Primer-uso  -> [inFile; nodo 9, linea 56]
+
+---------
+
+ultimo-def -> [lastdelimit; nodo Init, 7 Stut; lineas 13, 69, 85]
+Primer-uso -> [lastdelimit; nodo 2 checkDupes; linea 83]
+
+---------
+
+ultimo-def -> [curWord;  nodos Init, 7 Stut, 8 checkDupes; lineas 14, 70,94]
+Primer-uso -> [curWord;  nodos 7 stut, 5 y 6 checkDupes; linea 103]
+
+-----
+
+ultimo-def -> [delimits;nodos Init ; linea 15 ]
+Primer-uso -> [delimits; nodos 2, 3 isDelimit; lineas 101, 102]
